@@ -47,7 +47,7 @@
   <div class="container" style="background-color:#f1f1f1">
     <button type="button" class="cancelbtn" style="margin-left:auto;margin-right:auto;display:block;">Cancel</button>
     
-    <span class="psw">Forgot <a href="forgotpassword.php">password?</a></span>
+    <span class="psw">Forgot <a href="vlookup.php">password?</a></span>
 
   </div>
   </center>
